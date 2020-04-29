@@ -1,9 +1,19 @@
 # Atividade-caixa-eletronico
+//Nesta atividade você deverá construir um programa na linguagem JAVA
+//Simundando um caixa eletronico
+
+
+
+
+
+
 package caixa_eletronico;
 //@author Carlos
 
 import java.util.Scanner;
+
 import java.util.ArrayList;
+
 public class Caixa_Eletronico {
     @SuppressWarnings("empty-statement")
     public static void main(String[] args) {
