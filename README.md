@@ -1,11 +1,8 @@
 # Atividade-caixa-eletronico
-//Nesta atividade você deverá construir um programa na linguagem JAVA
-//Simundando um caixa eletronico
-
-
-
-
-
+/*ATIVIDADE AC1 ADS – Construção de Algoritmos Caixa Eletrônico
+Nesta atividade você deverá construir um programa na linguagem JAVA
+Simulando um caixa eletronico,utilizando o git hub para guardar o código.
+*/
 
 package caixa_eletronico;
 //@author Carlos
